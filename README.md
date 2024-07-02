@@ -5,9 +5,7 @@
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
+  </a> 
 </p>
 
 -------
@@ -22,10 +20,10 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este repositório foi criado duranto aula sobre uso de IA para criação de artigos técnicos refinados. Curso assistido na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:**   Este repositório foi criado durante aula sobre uso de IA para criação de artigos técnicos refinados. Curso assistido na plataforma da [DIO](https://dio.me).
 
 
-Projeto com o objetivo de gerar um artigo técnico prático com um layout rico, e de fácil compreensão. Focado em promover habilidades na elaboração de prompts.
+Projeto com o objetivo de gerar um artigo técnico prático com um layout rico, e de fácil compreensão. Focado em promover habilidades na elaboração de prompts mais assertivos.
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -40,10 +38,10 @@ Projeto com o objetivo de gerar um artigo técnico prático com um layout rico, 
  
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto File System                                                                                                                                                                          |
-| conteúdo | Atue como um especialista em node.js demonstrando a utilização do File System. Esta demonstração será através de texto para ebook {REGRAS} Explique sempre de uma maneira simples. Evite termos muito técnicos pois o conteúdo deve ser entendível por todos os públicos. Sempre traga exemplos de código em contextos reais , sempre deixe um título alusivo ao tópico. 
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                                                   |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto File System                                                                                                                                                                                                                                                                                                      |
+| conteúdo | Atue como um especialista em node.js demonstrando a utilização do File System. Esta demonstração será através de texto para ebook {REGRAS} Explique sempre de uma maneira simples. Evite termos muito técnicos pois o conteúdo deve ser entendível por todos os públicos. Sempre traga exemplos de código em contextos reais , sempre deixe um título alusivo ao tópico. |
 
 
 <hr>
@@ -53,9 +51,9 @@ ChatGPT：
 
 Leonardo AI:
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Imagem  | Em uma representação deslumbrantemente vívida, a figura imponente de Godzilla coloca delicadamente um documento de papel dentro de um diretório amarelo brilhante, configurado contra uma interface digital de computador. As escamas robustas da majestosa criatura brilham sob a luz artificial, acentuando sua presença intimidadora. A atenção aos detalhes nesta imagem digitalmente renderizada é extraordinária, capturando o imenso poder e precisão de Godzilla em uma composição hipnotizante que imerge o espectador no mundo moderno da tecnologia e da maravilha monstruosa.                                                                                                                                                            
+|  Ação  | prompt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Imagem | Em uma representação deslumbrantemente vívida, a figura imponente de Godzilla coloca delicadamente um documento de papel dentro de um diretório amarelo brilhante, configurado contra uma interface digital de computador. As escamas robustas da majestosa criatura brilham sob a luz artificial, acentuando sua presença intimidadora. A atenção aos detalhes nesta imagem digitalmente renderizada é extraordinária, capturando o imenso poder e precisão de Godzilla em uma composição hipnotizante que imerge o espectador no mundo moderno da tecnologia e da maravilha monstruosa. |
 
 
 
@@ -67,21 +65,21 @@ Leonardo AI:
 
  
 
-## 👨‍💻 Dev
+## 👨‍💻 Monster Developer
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="./assets/godzilla.jpg"
     />
-    <p>&nbsp&nbsp&nbspAllan Guimarães<br>
+    <p>&nbsp&nbsp&nbsp&nbsp&nbspAllan Guimarães<br>
     &nbsp&nbsp&nbsp
     </a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/allanguimaraes/">LinkedIn</a>
 
-&nbsp;|&nbsp;</p>
+&nbsp;&nbsp;</p>
 </p>
 <br/><br/>
 <p>
